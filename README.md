@@ -5,7 +5,7 @@ Takes data exported from SQL database of LDS scriptures and turns it into usable
 
 sql-scrip-parser.py converts these files into readable text files. Each chapter is identified and followed by the text in a "verse-first" format (that is, each verse ends with a newline).
 
-[filename].sh uses [whatever].py and passes it a list of files to convert and then converts the output into rtf files.
+scrip-text.sh uses sql-scrip-parser.py and passes it a list of files to convert and then converts the output into rtf files.
 
 ## To do:
 * Fix input/output folder issues.
