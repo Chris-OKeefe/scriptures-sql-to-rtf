@@ -13,5 +13,7 @@ scrip-text.sh uses sql-scrip-parser.py and passes it a list of files to convert 
 * Fix sql-scrip-parser.py so that it can convert to rtf within the script (rather than relying on calling soffice).
 * Consider fixing sql-scrip-parser.py so that it can take a list of files.
 * Consider fixing sql-scrip-parser.py so that it can pull text directly from SQL.
-* Come up with a better name for this project.
 
+## Skills:
+* Uses simple Python scripting to process text files
+* Uses simple BASH scripting
