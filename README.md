@@ -7,6 +7,10 @@ sql-scrip-parser.py converts these files into readable text files. Each chapter 
 
 scrip-text.sh uses sql-scrip-parser.py and passes it a list of files to convert and then converts the output into rtf files.
 
+## Skills:
+* Uses simple Python scripting to process text files
+* Uses simple BASH scripting
+
 ## To do:
 * Fix input/output folder issues.
 * Fix sql-scrip-parser.py so that it can convert input text to either txt or tex output.
@@ -14,6 +18,4 @@ scrip-text.sh uses sql-scrip-parser.py and passes it a list of files to convert 
 * Consider fixing sql-scrip-parser.py so that it can take a list of files.
 * Consider fixing sql-scrip-parser.py so that it can pull text directly from SQL.
 
-## Skills:
-* Uses simple Python scripting to process text files
-* Uses simple BASH scripting
+
